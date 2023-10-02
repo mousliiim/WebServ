@@ -23,7 +23,7 @@ https://github.com/mousliiim/WebServ/assets/101677651/cb7ebcdb-c1b7-4437-8f4c-0f
 </p>
 <img src="https://img.shields.io/github/languages/top/mousliiim/WebServ?style&color=5D6D7E" alt="GitHub top language" />
 <img src="https://img.shields.io/github/languages/code-size/mousliiim/WebServ?style&color=5D6D7E" alt="GitHub code size in bytes" />
-<img src="https://img.shields.io/github/commit-activity/m/mousliiim/WebServ?style&color=5D6D7E" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/commit-activity/m/nxoo971/webserv?style&color=5D6D7E" alt="GitHub commit activity" />
 <img src="https://img.shields.io/github/license/mousliiim/WebServ?style&color=5D6D7E" alt="GitHub license" />
 </div>
 
